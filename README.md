@@ -1,4 +1,4 @@
-# CSINTSY-MCO3
+# Machine Learning for Finance: A Comparative Analysis of Regression Models in Predicting Stock Prices
 
 This group project was completed in partial fulfillment of the course requirements for CSINTSY.
 
