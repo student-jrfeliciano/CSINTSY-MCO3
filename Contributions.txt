@@ -1,0 +1,9 @@
+Contributions:
+
+Feliciano, Jan Robee Estacio - Ridge Regression Model, Documentation
+Sandoval, Lee Brien Villasenor - Comparative Analysis
+Siazon, Jalene Graciella Tubbali - Comparative Analysis
+Toledo, Aaron Ace Ramos - Comparative Analysis
+Valdellon, Derrick Munoz - Linear Regression Model, Documentation
+
+Link of the Collab Notebook: https://colab.research.google.com/drive/17dPnLaylYitnyQdR-_0ugW8_0YG8CHvr?usp=sharing
